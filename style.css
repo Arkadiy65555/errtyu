@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:blue;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px; 
+    border: 2px solid #1D1F1F;
+    margin: 20px;
+    }
+
+    
+    
+
+nav {
+    margin: 20px 20px 20px 100px;
+    padding: 5px;
+    
+}
+
+
+.special_link {
+    background-color: #F8990A;
+    color: black;
+    border: 2px solid #F8990A;
+    
+
+}
+
+
+font {
+    background-color: ;
+    padding: 5px;
+}
+
+footer {
+    background-color: greenyellow;
+    padding: 1px;
+}
+}
+ 
+
+footer p {
+    font-size: 20px;
+    background-color: rgb(16, 112, 238);
+    padding: 5px;
+
+}
+
+.ffvv {
+    background: #FFFF;
+}
+
+.yygg {
+    background: #FFFF;
